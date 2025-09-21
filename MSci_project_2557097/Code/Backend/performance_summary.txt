@@ -1,0 +1,545 @@
+=== Testing mode: linear ===
+
+Instance 1:
+Nodes: 10, Edges: 40, Exec Time: 0.2476 sec,  PoA: 1.009, Equilibrium Iterations: 7, Social Optimality Iterations: 14
+Nodes: 20, Edges: 80, Exec Time: 0.5602 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 30, Edges: 120, Exec Time: 1.0571 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 1.7897 sec,  PoA: 1.009, Equilibrium Iterations: 7, Social Optimality Iterations: 11
+Nodes: 50, Edges: 200, Exec Time: 3.0394 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 60, Edges: 240, Exec Time: 4.2948 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 70, Edges: 280, Exec Time: 6.4995 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 80, Edges: 320, Exec Time: 9.5696 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 90, Edges: 360, Exec Time: 13.7065 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 15
+Nodes: 100, Edges: 400, Exec Time: 15.4818 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+
+Instance 2:
+Nodes: 10, Edges: 40, Exec Time: 0.1699 sec,  PoA: 1.01, Equilibrium Iterations: 7, Social Optimality Iterations: 7
+Nodes: 20, Edges: 80, Exec Time: 0.4763 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 0.9841 sec,  PoA: 1.003, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 1.6382 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 2.9126 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 60, Edges: 240, Exec Time: 4.8445 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 70, Edges: 280, Exec Time: 5.5658 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 80, Edges: 320, Exec Time: 11.4789 sec,  PoA: 1.002, Equilibrium Iterations: 8, Social Optimality Iterations: 18
+Nodes: 90, Edges: 360, Exec Time: 9.8770 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 100, Edges: 400, Exec Time: 15.3026 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+
+Instance 3:
+Nodes: 10, Edges: 40, Exec Time: 0.1452 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 20, Edges: 80, Exec Time: 0.4884 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 1.0614 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 40, Edges: 160, Exec Time: 1.6515 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 2.5721 sec,  PoA: 1.01, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 60, Edges: 240, Exec Time: 4.5442 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 70, Edges: 280, Exec Time: 5.6829 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 80, Edges: 320, Exec Time: 9.5677 sec,  PoA: 1.019, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 90, Edges: 360, Exec Time: 9.9415 sec,  PoA: 1.004, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 100, Edges: 400, Exec Time: 14.4452 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+
+Instance 4:
+Nodes: 10, Edges: 40, Exec Time: 0.1843 sec,  PoA: 1.007, Equilibrium Iterations: 6, Social Optimality Iterations: 12
+Nodes: 20, Edges: 80, Exec Time: 0.2633 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 30, Edges: 120, Exec Time: 0.9014 sec,  PoA: 1.008, Equilibrium Iterations: 7, Social Optimality Iterations: 7
+Nodes: 40, Edges: 160, Exec Time: 1.8289 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 50, Edges: 200, Exec Time: 3.1651 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 60, Edges: 240, Exec Time: 4.3259 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 70, Edges: 280, Exec Time: 6.0069 sec,  PoA: 1.007, Equilibrium Iterations: 7, Social Optimality Iterations: 11
+Nodes: 80, Edges: 320, Exec Time: 1.8057 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 90, Edges: 360, Exec Time: 10.9256 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 100, Edges: 400, Exec Time: 13.8997 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+
+Instance 5:
+Nodes: 10, Edges: 40, Exec Time: 0.1627 sec,  PoA: 1.002, Equilibrium Iterations: 6, Social Optimality Iterations: 6
+Nodes: 20, Edges: 80, Exec Time: 0.5420 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 13
+Nodes: 30, Edges: 120, Exec Time: 0.9723 sec,  PoA: 1.003, Equilibrium Iterations: 4, Social Optimality Iterations: 11
+Nodes: 40, Edges: 160, Exec Time: 1.6913 sec,  PoA: 1.018, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 2.6783 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 60, Edges: 240, Exec Time: 3.9590 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 70, Edges: 280, Exec Time: 2.7499 sec,  PoA: 1.0, Equilibrium Iterations: 3, Social Optimality Iterations: 2
+Nodes: 80, Edges: 320, Exec Time: 8.2833 sec,  PoA: 1.006, Equilibrium Iterations: 7, Social Optimality Iterations: 10
+Nodes: 90, Edges: 360, Exec Time: 12.4497 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 100, Edges: 400, Exec Time: 28.4322 sec,  PoA: 1.007, Equilibrium Iterations: 7, Social Optimality Iterations: 10
+
+Instance 6:
+Nodes: 10, Edges: 40, Exec Time: 0.3204 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 20, Edges: 80, Exec Time: 0.7473 sec,  PoA: 1.003, Equilibrium Iterations: 6, Social Optimality Iterations: 7
+Nodes: 30, Edges: 120, Exec Time: 2.0001 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 10
+Nodes: 40, Edges: 160, Exec Time: 3.5203 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 50, Edges: 200, Exec Time: 4.7691 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 60, Edges: 240, Exec Time: 7.2269 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 70, Edges: 280, Exec Time: 11.4202 sec,  PoA: 1.013, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 80, Edges: 320, Exec Time: 17.5081 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 90, Edges: 360, Exec Time: 19.9807 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 100, Edges: 400, Exec Time: 25.4826 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+
+Instance 7:
+Nodes: 10, Edges: 40, Exec Time: 0.3386 sec,  PoA: 1.003, Equilibrium Iterations: 6, Social Optimality Iterations: 6
+Nodes: 20, Edges: 80, Exec Time: 0.9969 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 2.0189 sec,  PoA: 1.009, Equilibrium Iterations: 7, Social Optimality Iterations: 11
+Nodes: 40, Edges: 160, Exec Time: 3.1799 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 50, Edges: 200, Exec Time: 5.5369 sec,  PoA: 1.015, Equilibrium Iterations: 7, Social Optimality Iterations: 13
+Nodes: 60, Edges: 240, Exec Time: 7.8090 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 70, Edges: 280, Exec Time: 12.2022 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 80, Edges: 320, Exec Time: 16.7793 sec,  PoA: 1.016, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 90, Edges: 360, Exec Time: 24.3033 sec,  PoA: 1.01, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 100, Edges: 400, Exec Time: 26.8712 sec,  PoA: 1.01, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+
+Instance 8:
+Nodes: 10, Edges: 40, Exec Time: 0.2264 sec,  PoA: 1.003, Equilibrium Iterations: 6, Social Optimality Iterations: 6
+Nodes: 20, Edges: 80, Exec Time: 0.7790 sec,  PoA: 1.003, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 1.8056 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 3.5358 sec,  PoA: 1.012, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 50, Edges: 200, Exec Time: 5.1899 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 60, Edges: 240, Exec Time: 8.2615 sec,  PoA: 1.016, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 70, Edges: 280, Exec Time: 15.2795 sec,  PoA: 1.013, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 80, Edges: 320, Exec Time: 20.3502 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 90, Edges: 360, Exec Time: 24.4609 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 12
+Nodes: 100, Edges: 400, Exec Time: 28.0736 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+
+Instance 9:
+Nodes: 10, Edges: 40, Exec Time: 0.3908 sec,  PoA: 1.003, Equilibrium Iterations: 7, Social Optimality Iterations: 9
+Nodes: 20, Edges: 80, Exec Time: 1.0337 sec,  PoA: 1.011, Equilibrium Iterations: 7, Social Optimality Iterations: 14
+Nodes: 30, Edges: 120, Exec Time: 2.0477 sec,  PoA: 1.003, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 40, Edges: 160, Exec Time: 3.0508 sec,  PoA: 1.011, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 5.9515 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 60, Edges: 240, Exec Time: 9.7108 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 70, Edges: 280, Exec Time: 12.5260 sec,  PoA: 1.005, Equilibrium Iterations: 7, Social Optimality Iterations: 11
+Nodes: 80, Edges: 320, Exec Time: 19.1410 sec,  PoA: 1.017, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 90, Edges: 360, Exec Time: 22.3955 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 100, Edges: 400, Exec Time: 5.9087 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+
+Instance 10:
+Nodes: 10, Edges: 40, Exec Time: 0.4745 sec,  PoA: 1.002, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 20, Edges: 80, Exec Time: 1.2758 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 2.2341 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 4.5521 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 50, Edges: 200, Exec Time: 6.7144 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 60, Edges: 240, Exec Time: 10.5043 sec,  PoA: 1.013, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 70, Edges: 280, Exec Time: 15.2778 sec,  PoA: 1.016, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 80, Edges: 320, Exec Time: 16.2159 sec,  PoA: 1.014, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 90, Edges: 360, Exec Time: 24.2785 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 100, Edges: 400, Exec Time: 14.6844 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+
+Instance 11:
+Nodes: 10, Edges: 40, Exec Time: 0.1766 sec,  PoA: 1.002, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 20, Edges: 80, Exec Time: 0.8034 sec,  PoA: 1.004, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 30, Edges: 120, Exec Time: 3.0535 sec,  PoA: 1.004, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 40, Edges: 160, Exec Time: 4.1206 sec,  PoA: 1.008, Equilibrium Iterations: 9, Social Optimality Iterations: 15
+Nodes: 50, Edges: 200, Exec Time: 6.0433 sec,  PoA: 1.02, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 60, Edges: 240, Exec Time: 8.0099 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 70, Edges: 280, Exec Time: 13.5594 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 17.6190 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 90, Edges: 360, Exec Time: 21.6014 sec,  PoA: 1.008, Equilibrium Iterations: 7, Social Optimality Iterations: 10
+Nodes: 100, Edges: 400, Exec Time: 32.3298 sec,  PoA: 1.01, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+
+Instance 12:
+Nodes: 10, Edges: 40, Exec Time: 0.3214 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 20, Edges: 80, Exec Time: 1.0363 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 7
+Nodes: 30, Edges: 120, Exec Time: 2.2504 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 3.7723 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 50, Edges: 200, Exec Time: 6.2734 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 60, Edges: 240, Exec Time: 3.7306 sec,  PoA: 1.0, Equilibrium Iterations: 2, Social Optimality Iterations: 2
+Nodes: 70, Edges: 280, Exec Time: 12.9264 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 80, Edges: 320, Exec Time: 17.1547 sec,  PoA: 1.01, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 90, Edges: 360, Exec Time: 27.1504 sec,  PoA: 1.008, Equilibrium Iterations: 9, Social Optimality Iterations: 12
+Nodes: 100, Edges: 400, Exec Time: 27.3823 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+
+Instance 13:
+Nodes: 10, Edges: 40, Exec Time: 0.2906 sec,  PoA: 1.004, Equilibrium Iterations: 7, Social Optimality Iterations: 7
+Nodes: 20, Edges: 80, Exec Time: 0.9226 sec,  PoA: 1.003, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 1.9699 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 40, Edges: 160, Exec Time: 3.2792 sec,  PoA: 1.006, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 6.0719 sec,  PoA: 1.006, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 60, Edges: 240, Exec Time: 7.9535 sec,  PoA: 1.004, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 70, Edges: 280, Exec Time: 10.9451 sec,  PoA: 1.006, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 80, Edges: 320, Exec Time: 15.3168 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 90, Edges: 360, Exec Time: 4.3126 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 100, Edges: 400, Exec Time: 32.8276 sec,  PoA: 1.015, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+
+Instance 14:
+Nodes: 10, Edges: 40, Exec Time: 0.3592 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 7
+Nodes: 20, Edges: 80, Exec Time: 1.0131 sec,  PoA: 1.007, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 2.1408 sec,  PoA: 1.006, Equilibrium Iterations: 7, Social Optimality Iterations: 10
+Nodes: 40, Edges: 160, Exec Time: 2.8963 sec,  PoA: 1.008, Equilibrium Iterations: 7, Social Optimality Iterations: 8
+Nodes: 50, Edges: 200, Exec Time: 5.7133 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 9
+Nodes: 60, Edges: 240, Exec Time: 8.8927 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 70, Edges: 280, Exec Time: 14.4651 sec,  PoA: 1.011, Equilibrium Iterations: 8, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 17.9821 sec,  PoA: 1.004, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 90, Edges: 360, Exec Time: 25.3152 sec,  PoA: 1.008, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 100, Edges: 400, Exec Time: 27.4853 sec,  PoA: 1.013, Equilibrium Iterations: 8, Social Optimality Iterations: 7
+
+Instance 15:
+Nodes: 10, Edges: 40, Exec Time: 0.3609 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 7
+Nodes: 20, Edges: 80, Exec Time: 1.2638 sec,  PoA: 1.003, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 30, Edges: 120, Exec Time: 1.9843 sec,  PoA: 1.01, Equilibrium Iterations: 7, Social Optimality Iterations: 7
+Nodes: 40, Edges: 160, Exec Time: 4.4878 sec,  PoA: 1.005, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+Nodes: 50, Edges: 200, Exec Time: 5.6577 sec,  PoA: 0.986, Equilibrium Iterations: 9, Social Optimality Iterations: 6
+Nodes: 60, Edges: 240, Exec Time: 9.8159 sec,  PoA: 1.02, Equilibrium Iterations: 7, Social Optimality Iterations: 12
+Nodes: 70, Edges: 280, Exec Time: 12.8112 sec,  PoA: 1.004, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 80, Edges: 320, Exec Time: 14.8924 sec,  PoA: 1.016, Equilibrium Iterations: 8, Social Optimality Iterations: 8
+Nodes: 90, Edges: 360, Exec Time: 21.7679 sec,  PoA: 1.01, Equilibrium Iterations: 8, Social Optimality Iterations: 10
+Nodes: 100, Edges: 400, Exec Time: 31.0238 sec,  PoA: 1.009, Equilibrium Iterations: 8, Social Optimality Iterations: 11
+
+=== Testing mode: quadratic ===
+
+Instance 1:
+Nodes: 10, Edges: 40, Exec Time: 0.4181 sec,  PoA: 1.001, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 20, Edges: 80, Exec Time: 1.3730 sec,  PoA: 1.008, Equilibrium Iterations: 10, Social Optimality Iterations: 21
+Nodes: 30, Edges: 120, Exec Time: 3.3630 sec,  PoA: 1.013, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 40, Edges: 160, Exec Time: 6.2457 sec,  PoA: 1.01, Equilibrium Iterations: 15, Social Optimality Iterations: 22
+Nodes: 50, Edges: 200, Exec Time: 11.7762 sec,  PoA: 1.003, Equilibrium Iterations: 18, Social Optimality Iterations: 25
+Nodes: 60, Edges: 240, Exec Time: 15.9856 sec,  PoA: 1.014, Equilibrium Iterations: 17, Social Optimality Iterations: 19
+Nodes: 70, Edges: 280, Exec Time: 34.9535 sec,  PoA: 1.003, Equilibrium Iterations: 18, Social Optimality Iterations: 39
+Nodes: 80, Edges: 320, Exec Time: 29.2454 sec,  PoA: 1.022, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 90, Edges: 360, Exec Time: 18.9418 sec,  PoA: 1.027, Equilibrium Iterations: 15, Social Optimality Iterations: 17
+Nodes: 100, Edges: 400, Exec Time: 28.4290 sec,  PoA: 1.031, Equilibrium Iterations: 15, Social Optimality Iterations: 22
+
+Instance 2:
+Nodes: 10, Edges: 40, Exec Time: 0.2432 sec,  PoA: 1.003, Equilibrium Iterations: 12, Social Optimality Iterations: 19
+Nodes: 20, Edges: 80, Exec Time: 0.7758 sec,  PoA: 1.011, Equilibrium Iterations: 12, Social Optimality Iterations: 21
+Nodes: 30, Edges: 120, Exec Time: 1.4056 sec,  PoA: 1.025, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 40, Edges: 160, Exec Time: 2.9239 sec,  PoA: 1.003, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 50, Edges: 200, Exec Time: 4.6712 sec,  PoA: 1.003, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+Nodes: 60, Edges: 240, Exec Time: 7.6101 sec,  PoA: 1.012, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 70, Edges: 280, Exec Time: 3.1532 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 80, Edges: 320, Exec Time: 29.6315 sec,  PoA: 1.018, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 90, Edges: 360, Exec Time: 40.0597 sec,  PoA: 1.017, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 100, Edges: 400, Exec Time: 56.0886 sec,  PoA: 1.009, Equilibrium Iterations: 16, Social Optimality Iterations: 21
+
+Instance 3:
+Nodes: 10, Edges: 40, Exec Time: 0.3798 sec,  PoA: 1.003, Equilibrium Iterations: 13, Social Optimality Iterations: 15
+Nodes: 20, Edges: 80, Exec Time: 0.6070 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 30, Edges: 120, Exec Time: 3.4809 sec,  PoA: 1.01, Equilibrium Iterations: 16, Social Optimality Iterations: 20
+Nodes: 40, Edges: 160, Exec Time: 5.3562 sec,  PoA: 1.016, Equilibrium Iterations: 16, Social Optimality Iterations: 19
+Nodes: 50, Edges: 200, Exec Time: 8.1328 sec,  PoA: 1.01, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 60, Edges: 240, Exec Time: 12.5847 sec,  PoA: 1.014, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 70, Edges: 280, Exec Time: 47.4947 sec,  PoA: 1.001, Equilibrium Iterations: 30, Social Optimality Iterations: 46
+Nodes: 80, Edges: 320, Exec Time: 39.9679 sec,  PoA: 1.014, Equilibrium Iterations: 18, Social Optimality Iterations: 25
+Nodes: 90, Edges: 360, Exec Time: 38.5193 sec,  PoA: 1.012, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 100, Edges: 400, Exec Time: 47.4992 sec,  PoA: 1.003, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+
+Instance 4:
+Nodes: 10, Edges: 40, Exec Time: 0.3948 sec,  PoA: 1.001, Equilibrium Iterations: 13, Social Optimality Iterations: 21
+Nodes: 20, Edges: 80, Exec Time: 1.4042 sec,  PoA: 1.017, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 2.7972 sec,  PoA: 1.004, Equilibrium Iterations: 14, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 4.5951 sec,  PoA: 1.008, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 50, Edges: 200, Exec Time: 9.5838 sec,  PoA: 1.014, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 60, Edges: 240, Exec Time: 14.4641 sec,  PoA: 1.019, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 70, Edges: 280, Exec Time: 20.6495 sec,  PoA: 1.008, Equilibrium Iterations: 17, Social Optimality Iterations: 20
+Nodes: 80, Edges: 320, Exec Time: 36.1594 sec,  PoA: 1.007, Equilibrium Iterations: 17, Social Optimality Iterations: 24
+Nodes: 90, Edges: 360, Exec Time: 4.7957 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 100, Edges: 400, Exec Time: 58.0532 sec,  PoA: 0.633, Equilibrium Iterations: 23, Social Optimality Iterations: 12
+
+Instance 5:
+Nodes: 10, Edges: 40, Exec Time: 0.5085 sec,  PoA: 1.001, Equilibrium Iterations: 15, Social Optimality Iterations: 23
+Nodes: 20, Edges: 80, Exec Time: 1.3057 sec,  PoA: 1.035, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 30, Edges: 120, Exec Time: 2.7924 sec,  PoA: 1.019, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 40, Edges: 160, Exec Time: 1.2833 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 50, Edges: 200, Exec Time: 9.7477 sec,  PoA: 1.005, Equilibrium Iterations: 17, Social Optimality Iterations: 20
+Nodes: 60, Edges: 240, Exec Time: 16.4709 sec,  PoA: 1.014, Equilibrium Iterations: 17, Social Optimality Iterations: 22
+Nodes: 70, Edges: 280, Exec Time: 19.9093 sec,  PoA: 1.006, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 80, Edges: 320, Exec Time: 32.2009 sec,  PoA: 1.004, Equilibrium Iterations: 15, Social Optimality Iterations: 22
+Nodes: 90, Edges: 360, Exec Time: 38.3527 sec,  PoA: 1.006, Equilibrium Iterations: 13, Social Optimality Iterations: 22
+Nodes: 100, Edges: 400, Exec Time: 59.2853 sec,  PoA: 1.011, Equilibrium Iterations: 16, Social Optimality Iterations: 21
+
+Instance 6:
+Nodes: 10, Edges: 40, Exec Time: 0.3927 sec,  PoA: 1.021, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+Nodes: 20, Edges: 80, Exec Time: 1.0713 sec,  PoA: 1.008, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 3.5686 sec,  PoA: 1.006, Equilibrium Iterations: 16, Social Optimality Iterations: 19
+Nodes: 40, Edges: 160, Exec Time: 6.6856 sec,  PoA: 1.012, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 50, Edges: 200, Exec Time: 9.8877 sec,  PoA: 1.008, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 60, Edges: 240, Exec Time: 16.5911 sec,  PoA: 1.035, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 70, Edges: 280, Exec Time: 21.4296 sec,  PoA: 1.027, Equilibrium Iterations: 17, Social Optimality Iterations: 22
+Nodes: 80, Edges: 320, Exec Time: 31.3899 sec,  PoA: 1.016, Equilibrium Iterations: 16, Social Optimality Iterations: 22
+Nodes: 90, Edges: 360, Exec Time: 41.5008 sec,  PoA: 1.008, Equilibrium Iterations: 17, Social Optimality Iterations: 23
+Nodes: 100, Edges: 400, Exec Time: 52.2469 sec,  PoA: 1.005, Equilibrium Iterations: 17, Social Optimality Iterations: 20
+
+Instance 7:
+Nodes: 10, Edges: 40, Exec Time: 0.4858 sec,  PoA: 1.005, Equilibrium Iterations: 11, Social Optimality Iterations: 18
+Nodes: 20, Edges: 80, Exec Time: 1.6059 sec,  PoA: 1.004, Equilibrium Iterations: 12, Social Optimality Iterations: 22
+Nodes: 30, Edges: 120, Exec Time: 3.3734 sec,  PoA: 1.004, Equilibrium Iterations: 15, Social Optimality Iterations: 22
+Nodes: 40, Edges: 160, Exec Time: 5.2626 sec,  PoA: 1.01, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 50, Edges: 200, Exec Time: 8.7343 sec,  PoA: 1.005, Equilibrium Iterations: 14, Social Optimality Iterations: 21
+Nodes: 60, Edges: 240, Exec Time: 13.0856 sec,  PoA: 1.014, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 70, Edges: 280, Exec Time: 19.5033 sec,  PoA: 1.007, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+Nodes: 80, Edges: 320, Exec Time: 23.3669 sec,  PoA: 1.004, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 90, Edges: 360, Exec Time: 42.6806 sec,  PoA: 1.001, Equilibrium Iterations: 30, Social Optimality Iterations: 47
+Nodes: 100, Edges: 400, Exec Time: 26.6324 sec,  PoA: 1.012, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+
+Instance 8:
+Nodes: 10, Edges: 40, Exec Time: 0.2619 sec,  PoA: 1.006, Equilibrium Iterations: 12, Social Optimality Iterations: 20
+Nodes: 20, Edges: 80, Exec Time: 0.7621 sec,  PoA: 1.031, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 30, Edges: 120, Exec Time: 1.6400 sec,  PoA: 1.011, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 40, Edges: 160, Exec Time: 2.8943 sec,  PoA: 1.006, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 50, Edges: 200, Exec Time: 4.6869 sec,  PoA: 1.015, Equilibrium Iterations: 17, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 8.3369 sec,  PoA: 1.003, Equilibrium Iterations: 18, Social Optimality Iterations: 22
+Nodes: 70, Edges: 280, Exec Time: 10.6766 sec,  PoA: 1.009, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 80, Edges: 320, Exec Time: 40.6478 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 90, Edges: 360, Exec Time: 19.6908 sec,  PoA: 1.005, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 100, Edges: 400, Exec Time: 58.5946 sec,  PoA: 1.028, Equilibrium Iterations: 19, Social Optimality Iterations: 23
+
+Instance 9:
+Nodes: 10, Edges: 40, Exec Time: 0.4951 sec,  PoA: 1.003, Equilibrium Iterations: 10, Social Optimality Iterations: 16
+Nodes: 20, Edges: 80, Exec Time: 1.6595 sec,  PoA: 1.0, Equilibrium Iterations: 14, Social Optimality Iterations: 25
+Nodes: 30, Edges: 120, Exec Time: 2.7379 sec,  PoA: 1.01, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 40, Edges: 160, Exec Time: 5.9388 sec,  PoA: 1.014, Equilibrium Iterations: 15, Social Optimality Iterations: 22
+Nodes: 50, Edges: 200, Exec Time: 10.8973 sec,  PoA: 1.029, Equilibrium Iterations: 18, Social Optimality Iterations: 24
+Nodes: 60, Edges: 240, Exec Time: 17.1639 sec,  PoA: 1.012, Equilibrium Iterations: 17, Social Optimality Iterations: 22
+Nodes: 70, Edges: 280, Exec Time: 22.2473 sec,  PoA: 1.016, Equilibrium Iterations: 13, Social Optimality Iterations: 22
+Nodes: 80, Edges: 320, Exec Time: 29.2824 sec,  PoA: 1.016, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+Nodes: 90, Edges: 360, Exec Time: 39.8062 sec,  PoA: 1.016, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+Nodes: 100, Edges: 400, Exec Time: 58.1319 sec,  PoA: 1.012, Equilibrium Iterations: 17, Social Optimality Iterations: 22
+
+Instance 10:
+Nodes: 10, Edges: 40, Exec Time: 0.4004 sec,  PoA: 1.005, Equilibrium Iterations: 10, Social Optimality Iterations: 18
+Nodes: 20, Edges: 80, Exec Time: 1.4143 sec,  PoA: 1.022, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 30, Edges: 120, Exec Time: 3.2337 sec,  PoA: 1.01, Equilibrium Iterations: 13, Social Optimality Iterations: 21
+Nodes: 40, Edges: 160, Exec Time: 6.4127 sec,  PoA: 1.007, Equilibrium Iterations: 16, Social Optimality Iterations: 21
+Nodes: 50, Edges: 200, Exec Time: 8.9883 sec,  PoA: 1.009, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+Nodes: 60, Edges: 240, Exec Time: 15.5798 sec,  PoA: 1.004, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 70, Edges: 280, Exec Time: 18.2462 sec,  PoA: 1.059, Equilibrium Iterations: 8, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 36.2391 sec,  PoA: 1.028, Equilibrium Iterations: 17, Social Optimality Iterations: 21
+Nodes: 90, Edges: 360, Exec Time: 53.3768 sec,  PoA: 1.002, Equilibrium Iterations: 19, Social Optimality Iterations: 25
+Nodes: 100, Edges: 400, Exec Time: 55.7425 sec,  PoA: 1.006, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+
+Instance 11:
+Nodes: 10, Edges: 40, Exec Time: 0.5134 sec,  PoA: 1.02, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 20, Edges: 80, Exec Time: 1.3063 sec,  PoA: 1.001, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 3.4914 sec,  PoA: 1.008, Equilibrium Iterations: 17, Social Optimality Iterations: 20
+Nodes: 40, Edges: 160, Exec Time: 6.5745 sec,  PoA: 1.006, Equilibrium Iterations: 14, Social Optimality Iterations: 23
+Nodes: 50, Edges: 200, Exec Time: 9.3851 sec,  PoA: 1.008, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 60, Edges: 240, Exec Time: 14.7011 sec,  PoA: 1.011, Equilibrium Iterations: 17, Social Optimality Iterations: 21
+Nodes: 70, Edges: 280, Exec Time: 22.2039 sec,  PoA: 1.011, Equilibrium Iterations: 17, Social Optimality Iterations: 21
+Nodes: 80, Edges: 320, Exec Time: 34.1139 sec,  PoA: 1.004, Equilibrium Iterations: 19, Social Optimality Iterations: 22
+Nodes: 90, Edges: 360, Exec Time: 48.3466 sec,  PoA: 1.009, Equilibrium Iterations: 18, Social Optimality Iterations: 24
+Nodes: 100, Edges: 400, Exec Time: 53.9389 sec,  PoA: 1.009, Equilibrium Iterations: 16, Social Optimality Iterations: 21
+
+Instance 12:
+Nodes: 10, Edges: 40, Exec Time: 0.3492 sec,  PoA: 1.001, Equilibrium Iterations: 9, Social Optimality Iterations: 18
+Nodes: 20, Edges: 80, Exec Time: 1.2099 sec,  PoA: 1.007, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 30, Edges: 120, Exec Time: 3.1568 sec,  PoA: 1.007, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 40, Edges: 160, Exec Time: 5.6287 sec,  PoA: 1.012, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+Nodes: 50, Edges: 200, Exec Time: 8.8570 sec,  PoA: 1.007, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 60, Edges: 240, Exec Time: 14.7295 sec,  PoA: 1.01, Equilibrium Iterations: 14, Social Optimality Iterations: 21
+Nodes: 70, Edges: 280, Exec Time: 19.3017 sec,  PoA: 1.007, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 80, Edges: 320, Exec Time: 31.2588 sec,  PoA: 1.013, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 90, Edges: 360, Exec Time: 38.6742 sec,  PoA: 1.052, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 100, Edges: 400, Exec Time: 49.9203 sec,  PoA: 1.021, Equilibrium Iterations: 16, Social Optimality Iterations: 23
+
+Instance 13:
+Nodes: 10, Edges: 40, Exec Time: 0.3074 sec,  PoA: 1.011, Equilibrium Iterations: 13, Social Optimality Iterations: 21
+Nodes: 20, Edges: 80, Exec Time: 0.9892 sec,  PoA: 1.002, Equilibrium Iterations: 15, Social Optimality Iterations: 23
+Nodes: 30, Edges: 120, Exec Time: 1.7010 sec,  PoA: 1.019, Equilibrium Iterations: 12, Social Optimality Iterations: 18
+Nodes: 40, Edges: 160, Exec Time: 3.0903 sec,  PoA: 1.025, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 50, Edges: 200, Exec Time: 3.8522 sec,  PoA: 0.748, Equilibrium Iterations: 19, Social Optimality Iterations: 4
+Nodes: 60, Edges: 240, Exec Time: 8.6628 sec,  PoA: 1.013, Equilibrium Iterations: 16, Social Optimality Iterations: 22
+Nodes: 70, Edges: 280, Exec Time: 15.0928 sec,  PoA: 1.004, Equilibrium Iterations: 16, Social Optimality Iterations: 31
+Nodes: 80, Edges: 320, Exec Time: 19.2573 sec,  PoA: 1.002, Equilibrium Iterations: 16, Social Optimality Iterations: 25
+Nodes: 90, Edges: 360, Exec Time: 32.5969 sec,  PoA: 1.001, Equilibrium Iterations: 17, Social Optimality Iterations: 40
+Nodes: 100, Edges: 400, Exec Time: 30.7115 sec,  PoA: 1.004, Equilibrium Iterations: 18, Social Optimality Iterations: 21
+
+Instance 14:
+Nodes: 10, Edges: 40, Exec Time: 0.2573 sec,  PoA: 1.001, Equilibrium Iterations: 12, Social Optimality Iterations: 19
+Nodes: 20, Edges: 80, Exec Time: 0.8109 sec,  PoA: 1.012, Equilibrium Iterations: 15, Social Optimality Iterations: 19
+Nodes: 30, Edges: 120, Exec Time: 1.6886 sec,  PoA: 1.005, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 40, Edges: 160, Exec Time: 3.3348 sec,  PoA: 1.007, Equilibrium Iterations: 16, Social Optimality Iterations: 20
+Nodes: 50, Edges: 200, Exec Time: 5.4581 sec,  PoA: 1.007, Equilibrium Iterations: 16, Social Optimality Iterations: 20
+Nodes: 60, Edges: 240, Exec Time: 9.2579 sec,  PoA: 1.007, Equilibrium Iterations: 16, Social Optimality Iterations: 24
+Nodes: 70, Edges: 280, Exec Time: 18.7581 sec,  PoA: 1.001, Equilibrium Iterations: 19, Social Optimality Iterations: 39
+Nodes: 80, Edges: 320, Exec Time: 16.4147 sec,  PoA: 1.009, Equilibrium Iterations: 15, Social Optimality Iterations: 21
+Nodes: 90, Edges: 360, Exec Time: 24.0921 sec,  PoA: 1.006, Equilibrium Iterations: 20, Social Optimality Iterations: 22
+Nodes: 100, Edges: 400, Exec Time: 30.7033 sec,  PoA: 1.013, Equilibrium Iterations: 16, Social Optimality Iterations: 22
+
+Instance 15:
+Nodes: 10, Edges: 40, Exec Time: 0.2783 sec,  PoA: 1.008, Equilibrium Iterations: 12, Social Optimality Iterations: 19
+Nodes: 20, Edges: 80, Exec Time: 0.8524 sec,  PoA: 1.004, Equilibrium Iterations: 12, Social Optimality Iterations: 19
+Nodes: 30, Edges: 120, Exec Time: 1.9219 sec,  PoA: 1.004, Equilibrium Iterations: 14, Social Optimality Iterations: 20
+Nodes: 40, Edges: 160, Exec Time: 3.1465 sec,  PoA: 1.013, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 50, Edges: 200, Exec Time: 5.0022 sec,  PoA: 1.016, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 60, Edges: 240, Exec Time: 8.4361 sec,  PoA: 1.007, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 70, Edges: 280, Exec Time: 13.3322 sec,  PoA: 1.016, Equilibrium Iterations: 15, Social Optimality Iterations: 20
+Nodes: 80, Edges: 320, Exec Time: 48.5123 sec,  PoA: 1.001, Equilibrium Iterations: 64, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 20.6676 sec,  PoA: 1.02, Equilibrium Iterations: 11, Social Optimality Iterations: 19
+Nodes: 100, Edges: 400, Exec Time: 48.1568 sec,  PoA: 1.016, Equilibrium Iterations: 17, Social Optimality Iterations: 23
+
+=== Testing mode: mixed ===
+
+Instance 1:
+Nodes: 10, Edges: 40, Exec Time: 0.2024 sec,  PoA: 1.02, Equilibrium Iterations: 10, Social Optimality Iterations: 12
+Nodes: 20, Edges: 80, Exec Time: 0.6215 sec,  PoA: 1.033, Equilibrium Iterations: 12, Social Optimality Iterations: 12
+Nodes: 30, Edges: 120, Exec Time: 1.5761 sec,  PoA: 1.022, Equilibrium Iterations: 14, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 2.4988 sec,  PoA: 1.029, Equilibrium Iterations: 12, Social Optimality Iterations: 15
+Nodes: 50, Edges: 200, Exec Time: 4.1862 sec,  PoA: 1.023, Equilibrium Iterations: 13, Social Optimality Iterations: 15
+Nodes: 60, Edges: 240, Exec Time: 1.3370 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 70, Edges: 280, Exec Time: 8.6488 sec,  PoA: 1.02, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 13.3526 sec,  PoA: 1.038, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 90, Edges: 360, Exec Time: 16.4699 sec,  PoA: 1.052, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 100, Edges: 400, Exec Time: 23.3895 sec,  PoA: 1.036, Equilibrium Iterations: 11, Social Optimality Iterations: 19
+
+Instance 2:
+Nodes: 10, Edges: 40, Exec Time: 0.2291 sec,  PoA: 1.034, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 20, Edges: 80, Exec Time: 0.7444 sec,  PoA: 1.01, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 1.3281 sec,  PoA: 1.019, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 40, Edges: 160, Exec Time: 6.4034 sec,  PoA: 1.006, Equilibrium Iterations: 21, Social Optimality Iterations: 61
+Nodes: 50, Edges: 200, Exec Time: 4.7260 sec,  PoA: 1.03, Equilibrium Iterations: 15, Social Optimality Iterations: 18
+Nodes: 60, Edges: 240, Exec Time: 6.0678 sec,  PoA: 1.039, Equilibrium Iterations: 12, Social Optimality Iterations: 15
+Nodes: 70, Edges: 280, Exec Time: 8.7870 sec,  PoA: 1.021, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 24.8920 sec,  PoA: 1.034, Equilibrium Iterations: 13, Social Optimality Iterations: 15
+Nodes: 90, Edges: 360, Exec Time: 37.1971 sec,  PoA: 1.029, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 100, Edges: 400, Exec Time: 6.0587 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+
+Instance 3:
+Nodes: 10, Edges: 40, Exec Time: 0.4026 sec,  PoA: 1.012, Equilibrium Iterations: 10, Social Optimality Iterations: 13
+Nodes: 20, Edges: 80, Exec Time: 1.6650 sec,  PoA: 1.053, Equilibrium Iterations: 11, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 2.8866 sec,  PoA: 1.053, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 4.9335 sec,  PoA: 1.025, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 50, Edges: 200, Exec Time: 8.4474 sec,  PoA: 1.028, Equilibrium Iterations: 12, Social Optimality Iterations: 18
+Nodes: 60, Edges: 240, Exec Time: 9.9023 sec,  PoA: 1.014, Equilibrium Iterations: 8, Social Optimality Iterations: 14
+Nodes: 70, Edges: 280, Exec Time: 18.8056 sec,  PoA: 1.011, Equilibrium Iterations: 13, Social Optimality Iterations: 20
+Nodes: 80, Edges: 320, Exec Time: 25.4939 sec,  PoA: 1.037, Equilibrium Iterations: 11, Social Optimality Iterations: 19
+Nodes: 90, Edges: 360, Exec Time: 37.5979 sec,  PoA: 1.02, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+Nodes: 100, Edges: 400, Exec Time: 50.3972 sec,  PoA: 1.043, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+
+Instance 4:
+Nodes: 10, Edges: 40, Exec Time: 0.4745 sec,  PoA: 1.031, Equilibrium Iterations: 10, Social Optimality Iterations: 15
+Nodes: 20, Edges: 80, Exec Time: 1.3074 sec,  PoA: 1.013, Equilibrium Iterations: 8, Social Optimality Iterations: 13
+Nodes: 30, Edges: 120, Exec Time: 6.5912 sec,  PoA: 1.146, Equilibrium Iterations: 29, Social Optimality Iterations: 38
+Nodes: 40, Edges: 160, Exec Time: 6.0838 sec,  PoA: 1.034, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 50, Edges: 200, Exec Time: 5.5009 sec,  PoA: 1.005, Equilibrium Iterations: 5, Social Optimality Iterations: 11
+Nodes: 60, Edges: 240, Exec Time: 14.0572 sec,  PoA: 1.017, Equilibrium Iterations: 14, Social Optimality Iterations: 17
+Nodes: 70, Edges: 280, Exec Time: 22.1271 sec,  PoA: 1.029, Equilibrium Iterations: 16, Social Optimality Iterations: 19
+Nodes: 80, Edges: 320, Exec Time: 20.9195 sec,  PoA: 1.017, Equilibrium Iterations: 9, Social Optimality Iterations: 14
+Nodes: 90, Edges: 360, Exec Time: 33.6023 sec,  PoA: 1.018, Equilibrium Iterations: 11, Social Optimality Iterations: 17
+Nodes: 100, Edges: 400, Exec Time: 46.1689 sec,  PoA: 1.043, Equilibrium Iterations: 12, Social Optimality Iterations: 18
+
+Instance 5:
+Nodes: 10, Edges: 40, Exec Time: 0.4245 sec,  PoA: 1.009, Equilibrium Iterations: 10, Social Optimality Iterations: 11
+Nodes: 20, Edges: 80, Exec Time: 1.5167 sec,  PoA: 1.018, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 30, Edges: 120, Exec Time: 2.7840 sec,  PoA: 1.021, Equilibrium Iterations: 10, Social Optimality Iterations: 12
+Nodes: 40, Edges: 160, Exec Time: 5.2718 sec,  PoA: 1.004, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+Nodes: 50, Edges: 200, Exec Time: 8.6512 sec,  PoA: 1.039, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 12.2499 sec,  PoA: 1.034, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 70, Edges: 280, Exec Time: 17.7901 sec,  PoA: 1.028, Equilibrium Iterations: 10, Social Optimality Iterations: 15
+Nodes: 80, Edges: 320, Exec Time: 97.1209 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 90, Edges: 360, Exec Time: 27.6837 sec,  PoA: 1.008, Equilibrium Iterations: 11, Social Optimality Iterations: 13
+Nodes: 100, Edges: 400, Exec Time: 34.7178 sec,  PoA: 1.025, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+
+Instance 6:
+Nodes: 10, Edges: 40, Exec Time: 0.3263 sec,  PoA: 1.032, Equilibrium Iterations: 10, Social Optimality Iterations: 16
+Nodes: 20, Edges: 80, Exec Time: 1.0134 sec,  PoA: 1.03, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+Nodes: 30, Edges: 120, Exec Time: 2.6807 sec,  PoA: 1.027, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 40, Edges: 160, Exec Time: 4.4146 sec,  PoA: 1.012, Equilibrium Iterations: 10, Social Optimality Iterations: 16
+Nodes: 50, Edges: 200, Exec Time: 8.7861 sec,  PoA: 1.031, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 60, Edges: 240, Exec Time: 15.6153 sec,  PoA: 1.023, Equilibrium Iterations: 20, Social Optimality Iterations: 18
+Nodes: 70, Edges: 280, Exec Time: 21.2196 sec,  PoA: 1.017, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 32.8403 sec,  PoA: 1.028, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 42.7246 sec,  PoA: 1.016, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 100, Edges: 400, Exec Time: 46.4769 sec,  PoA: 1.022, Equilibrium Iterations: 12, Social Optimality Iterations: 15
+
+Instance 7:
+Nodes: 10, Edges: 40, Exec Time: 0.3813 sec,  PoA: 1.02, Equilibrium Iterations: 10, Social Optimality Iterations: 15
+Nodes: 20, Edges: 80, Exec Time: 1.4365 sec,  PoA: 1.033, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 30, Edges: 120, Exec Time: 2.9900 sec,  PoA: 1.045, Equilibrium Iterations: 11, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 4.3473 sec,  PoA: 1.033, Equilibrium Iterations: 9, Social Optimality Iterations: 15
+Nodes: 50, Edges: 200, Exec Time: 5.8956 sec,  PoA: 1.017, Equilibrium Iterations: 10, Social Optimality Iterations: 15
+Nodes: 60, Edges: 240, Exec Time: 7.7054 sec,  PoA: 1.03, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 70, Edges: 280, Exec Time: 17.3366 sec,  PoA: 1.025, Equilibrium Iterations: 13, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 24.6234 sec,  PoA: 1.017, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 34.7777 sec,  PoA: 1.005, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 100, Edges: 400, Exec Time: 31.2632 sec,  PoA: 0.527, Equilibrium Iterations: 10, Social Optimality Iterations: 8
+
+Instance 8:
+Nodes: 10, Edges: 40, Exec Time: 0.4771 sec,  PoA: 1.028, Equilibrium Iterations: 12, Social Optimality Iterations: 14
+Nodes: 20, Edges: 80, Exec Time: 1.3187 sec,  PoA: 1.037, Equilibrium Iterations: 12, Social Optimality Iterations: 13
+Nodes: 30, Edges: 120, Exec Time: 3.1784 sec,  PoA: 1.036, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 4.4981 sec,  PoA: 1.003, Equilibrium Iterations: 11, Social Optimality Iterations: 13
+Nodes: 50, Edges: 200, Exec Time: 8.7900 sec,  PoA: 1.036, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 60, Edges: 240, Exec Time: 2.9888 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 70, Edges: 280, Exec Time: 18.8642 sec,  PoA: 1.02, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 24.7475 sec,  PoA: 1.026, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 22.9363 sec,  PoA: 1.036, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+Nodes: 100, Edges: 400, Exec Time: 19.3232 sec,  PoA: 1.032, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+
+Instance 9:
+Nodes: 10, Edges: 40, Exec Time: 0.2361 sec,  PoA: 1.024, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 20, Edges: 80, Exec Time: 0.7195 sec,  PoA: 1.031, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 30, Edges: 120, Exec Time: 1.4336 sec,  PoA: 1.029, Equilibrium Iterations: 12, Social Optimality Iterations: 16
+Nodes: 40, Edges: 160, Exec Time: 2.4692 sec,  PoA: 1.045, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 50, Edges: 200, Exec Time: 4.2613 sec,  PoA: 1.052, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 6.4237 sec,  PoA: 1.027, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 70, Edges: 280, Exec Time: 8.7963 sec,  PoA: 1.019, Equilibrium Iterations: 12, Social Optimality Iterations: 15
+Nodes: 80, Edges: 320, Exec Time: 12.3428 sec,  PoA: 1.018, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+Nodes: 90, Edges: 360, Exec Time: 33.3404 sec,  PoA: 1.031, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 100, Edges: 400, Exec Time: 36.9181 sec,  PoA: 1.018, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+
+Instance 10:
+Nodes: 10, Edges: 40, Exec Time: 0.3834 sec,  PoA: 1.005, Equilibrium Iterations: 6, Social Optimality Iterations: 13
+Nodes: 20, Edges: 80, Exec Time: 1.1692 sec,  PoA: 1.027, Equilibrium Iterations: 10, Social Optimality Iterations: 13
+Nodes: 30, Edges: 120, Exec Time: 2.6594 sec,  PoA: 1.027, Equilibrium Iterations: 11, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 2.9318 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 50, Edges: 200, Exec Time: 8.1437 sec,  PoA: 1.034, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 10.9993 sec,  PoA: 1.023, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 70, Edges: 280, Exec Time: 20.3749 sec,  PoA: 1.033, Equilibrium Iterations: 12, Social Optimality Iterations: 19
+Nodes: 80, Edges: 320, Exec Time: 3.7778 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 90, Edges: 360, Exec Time: 34.6399 sec,  PoA: 1.024, Equilibrium Iterations: 8, Social Optimality Iterations: 18
+Nodes: 100, Edges: 400, Exec Time: 33.3728 sec,  PoA: 0.962, Equilibrium Iterations: 14, Social Optimality Iterations: 6
+
+Instance 11:
+Nodes: 10, Edges: 40, Exec Time: 0.5337 sec,  PoA: 1.035, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 20, Edges: 80, Exec Time: 1.1686 sec,  PoA: 1.029, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+Nodes: 30, Edges: 120, Exec Time: 2.8830 sec,  PoA: 1.015, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+Nodes: 40, Edges: 160, Exec Time: 4.6677 sec,  PoA: 1.034, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 50, Edges: 200, Exec Time: 8.3123 sec,  PoA: 1.023, Equilibrium Iterations: 14, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 13.6280 sec,  PoA: 1.018, Equilibrium Iterations: 14, Social Optimality Iterations: 19
+Nodes: 70, Edges: 280, Exec Time: 17.2242 sec,  PoA: 1.038, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 25.2856 sec,  PoA: 1.032, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 30.5373 sec,  PoA: 1.027, Equilibrium Iterations: 13, Social Optimality Iterations: 15
+Nodes: 100, Edges: 400, Exec Time: 43.2814 sec,  PoA: 1.043, Equilibrium Iterations: 13, Social Optimality Iterations: 19
+
+Instance 12:
+Nodes: 10, Edges: 40, Exec Time: 0.3831 sec,  PoA: 1.026, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 20, Edges: 80, Exec Time: 1.1169 sec,  PoA: 1.015, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+Nodes: 30, Edges: 120, Exec Time: 2.4070 sec,  PoA: 1.017, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 40, Edges: 160, Exec Time: 4.9764 sec,  PoA: 1.022, Equilibrium Iterations: 10, Social Optimality Iterations: 14
+Nodes: 50, Edges: 200, Exec Time: 10.7672 sec,  PoA: 1.004, Equilibrium Iterations: 14, Social Optimality Iterations: 21
+Nodes: 60, Edges: 240, Exec Time: 10.6914 sec,  PoA: 1.031, Equilibrium Iterations: 10, Social Optimality Iterations: 12
+Nodes: 70, Edges: 280, Exec Time: 33.4469 sec,  PoA: 1.046, Equilibrium Iterations: 19, Social Optimality Iterations: 39
+Nodes: 80, Edges: 320, Exec Time: 22.6475 sec,  PoA: 1.021, Equilibrium Iterations: 11, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 33.2000 sec,  PoA: 1.026, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 100, Edges: 400, Exec Time: 43.5110 sec,  PoA: 1.012, Equilibrium Iterations: 11, Social Optimality Iterations: 15
+
+Instance 13:
+Nodes: 10, Edges: 40, Exec Time: 0.4136 sec,  PoA: 1.011, Equilibrium Iterations: 12, Social Optimality Iterations: 15
+Nodes: 20, Edges: 80, Exec Time: 1.1369 sec,  PoA: 1.032, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 30, Edges: 120, Exec Time: 2.2988 sec,  PoA: 1.024, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 40, Edges: 160, Exec Time: 4.8108 sec,  PoA: 1.025, Equilibrium Iterations: 14, Social Optimality Iterations: 18
+Nodes: 50, Edges: 200, Exec Time: 7.5442 sec,  PoA: 1.042, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 60, Edges: 240, Exec Time: 9.9700 sec,  PoA: 1.022, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 70, Edges: 280, Exec Time: 16.2534 sec,  PoA: 1.004, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 15.5349 sec,  PoA: 1.029, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 90, Edges: 360, Exec Time: 18.2970 sec,  PoA: 1.014, Equilibrium Iterations: 13, Social Optimality Iterations: 18
+Nodes: 100, Edges: 400, Exec Time: 25.7025 sec,  PoA: 1.04, Equilibrium Iterations: 12, Social Optimality Iterations: 20
+
+Instance 14:
+Nodes: 10, Edges: 40, Exec Time: 0.2675 sec,  PoA: 1.007, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 20, Edges: 80, Exec Time: 0.8301 sec,  PoA: 1.04, Equilibrium Iterations: 11, Social Optimality Iterations: 17
+Nodes: 30, Edges: 120, Exec Time: 3.2124 sec,  PoA: 1.03, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 40, Edges: 160, Exec Time: 6.4890 sec,  PoA: 1.006, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 50, Edges: 200, Exec Time: 7.4531 sec,  PoA: 1.037, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 60, Edges: 240, Exec Time: 10.9915 sec,  PoA: 1.028, Equilibrium Iterations: 10, Social Optimality Iterations: 15
+Nodes: 70, Edges: 280, Exec Time: 16.4972 sec,  PoA: 1.039, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 80, Edges: 320, Exec Time: 24.4164 sec,  PoA: 1.044, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 90, Edges: 360, Exec Time: 34.0270 sec,  PoA: 1.042, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 100, Edges: 400, Exec Time: 30.5249 sec,  PoA: 1.035, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+
+Instance 15:
+Nodes: 10, Edges: 40, Exec Time: 0.2123 sec,  PoA: 1.024, Equilibrium Iterations: 8, Social Optimality Iterations: 12
+Nodes: 20, Edges: 80, Exec Time: 0.7668 sec,  PoA: 1.032, Equilibrium Iterations: 13, Social Optimality Iterations: 17
+Nodes: 30, Edges: 120, Exec Time: 1.4336 sec,  PoA: 1.017, Equilibrium Iterations: 11, Social Optimality Iterations: 14
+Nodes: 40, Edges: 160, Exec Time: 2.8114 sec,  PoA: 1.038, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 50, Edges: 200, Exec Time: 4.5094 sec,  PoA: 1.036, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 60, Edges: 240, Exec Time: 7.5857 sec,  PoA: 1.012, Equilibrium Iterations: 10, Social Optimality Iterations: 18
+Nodes: 70, Edges: 280, Exec Time: 11.2500 sec,  PoA: 1.004, Equilibrium Iterations: 13, Social Optimality Iterations: 16
+Nodes: 80, Edges: 320, Exec Time: 16.3364 sec,  PoA: 1.007, Equilibrium Iterations: 12, Social Optimality Iterations: 17
+Nodes: 90, Edges: 360, Exec Time: 2.9808 sec,  PoA: -1, Equilibrium Iterations: None, Social Optimality Iterations: None
+Nodes: 100, Edges: 400, Exec Time: 40.5192 sec,  PoA: 1.002, Equilibrium Iterations: 16, Social Optimality Iterations: 26
